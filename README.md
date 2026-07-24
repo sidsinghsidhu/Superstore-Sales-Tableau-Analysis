@@ -34,7 +34,7 @@ The final consolidated dashboard offers a high-level view of the store's perform
 * **Visualization:** Line Chart
 * **Insights:** Customer purchasing behavior shows distinct seasonal spikes. Order quantities peak significantly in **May (21,273 orders)** and experience a strong secondary surge in **September (19,116 orders)**. Inventory should be scaled up prior to these months to meet demand.
 
-![Order Quantity by Month](order_quantity.png)
+![Order Quantity by Month](order_quantity_by_month.png)
 
 ### 4. Profitability vs. Sales Volume Correlation
 * **Visualization:** Scatter Plot
